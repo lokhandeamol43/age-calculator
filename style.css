@@ -1,0 +1,81 @@
+*{
+    box-sizing: border-box;
+    margin-left: 5px;
+    padding: 5px;
+    font-family: 'Ubuntu', sans-serif;
+}
+.box{
+    width: 650px;
+    margin-left: 350px;
+    margin-top: 150px;
+    margin-bottom: 150px;
+    border-radius: 15px;
+    color: white;
+    background-color: black;
+}
+h2 {
+    font-weight: bolder;
+    text-align: center;
+    letter-spacing: 4px;
+    text-transform: capitalize;
+    text-shadow: 2px 2px 3px black;
+    color: goldenrod;
+    text-shadow: 2px 2px 1px rgb(91, 92, 95);
+
+}
+#labelAge{
+    margin-left: 180px;
+}
+input {
+    background-color: gray;
+    border-radius: 10px;
+    margin-left: 10px;
+    font-family: 'Ubuntu', sans-serif;
+    width: 160px;
+}
+button{
+    /* background-color: goldenrod; */
+    background-color: rgb(247, 173, 82);
+    color: white;
+    /* margin-top: 20px;
+    border-radius: 5px; */
+}
+#calculate{
+    padding: 15px;
+    width: 150px;
+    color: white;
+    font-weight: bolder;
+    border-radius: 10px;
+    margin-left: 185px;
+    margin-top: 15px;
+}
+#calculate:hover{
+    background-color: burlywood;
+}
+
+#reset{
+    padding: 15px;
+    width: 65px;
+    border-radius: 10px;
+    margin-top: 15px;
+    margin-left: 20px;
+    text-align: center;
+}
+#reset:hover{
+    background-color: burlywood;
+}
+.finalAge{
+    font-family: 'Ubuntu', sans-serif;
+    margin-left: 190px;
+    font-size: x-large;
+}
+#socialMedia{
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 30px;
+    font-size: x-large;
+}
+a{
+    color: white;
+}
+
